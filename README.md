@@ -1,10 +1,10 @@
-# Perfil GitHub - [SeuNome]
+# Perfil GitHub - Bruno Menezes Rodrigues Oliveira Vaz
 
 ---
 
 ## 👋 Olá, mundo!
 
-Bem-vindo ao meu espaço digital! Sou [Seu Nome], um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
+Bem-vindo ao meu espaço digital! Sou Bruno, um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
 
 ---
 
@@ -42,8 +42,7 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 
 ## 🌐 Redes Sociais
 
-- [LinkedIn](https://www.linkedin.com/in/seunome)
-- [Twitter](https://twitter.com/seunome)
+
 
 ---
 
