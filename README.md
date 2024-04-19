@@ -59,7 +59,7 @@ Minhas habilidades incluem programação em C, html e um pouco de python. Destac
 - :man_student: &nbsp; Sou estudante de Ciência da computação.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
 - :soccer:&nbsp; Sou fluminense<br />
-- Também gosto de hokey/NHL (san jose Sharks).<br />
+- :ice_hockey:&nbsp; Também gosto de hokey/NHL (san jose Sharks).<br />
 - :airplane: &nbsp; Curto viajar e conhecer novos lugares.<br />
 - :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
