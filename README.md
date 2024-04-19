@@ -32,9 +32,10 @@ Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque
 ---
 
 ## 📚 Educação
-
+**Engenharia Aeronáutica | PUC Minas**
+*Período: 2020 - 2023/1*
 **Ciência da Computação | PUC Minas**  
-*Período: [Ano de Início] - Presente*
+*Período: 2024 - Presente*
 
 Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
 
