@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Bruno</code>, tenho 22 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 1° período de Ciência da Computação na <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank"> PUC Minas</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>Bruno</code>, tenho 22 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 2° período de Ciência da Computação na <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank"> PUC Minas</a></i>👨🏻‍💻<br />
 </div>
 
 -----
