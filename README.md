@@ -55,7 +55,7 @@ Minhas habilidades incluem programação em C, html e um pouco de python. Destac
 
 <div align="justify">
 <p>
-- :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
+- :necktie: &nbsp; 
 - :man_student: &nbsp; Sou estudante de Ciência da computação.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
 - :soccer:&nbsp; Sou fluminense<br />
