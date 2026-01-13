@@ -34,14 +34,14 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Bruno</code>, tenho 22 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 2° período de Ciência da Computação na <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank"> PUC Minas</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>Bruno</code>, tenho 23 anos, moro em BH e sou Dev. Atualmente <!-- trabalho como <code>assistente de TI</code> e -->  estou no 5° período de Ciência da Computação na <a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target="_blank"> PUC Minas</a></i>👨🏻‍💻<br />
 </div>
 
 -----
 
 <img height="20" alt="GIF" src="https://github.com/Brunomenezesvaz/Brunomenezesvaz/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C, html e um pouco de python. Destaco-me pela eficiência no desenvolvimento em C. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
+Minhas habilidades incluem programação em C, Java, html e um pouco de python. Destaco-me pela eficiência no desenvolvimento em C. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades.
 </div>
 
 -----
@@ -58,8 +58,8 @@ Minhas habilidades incluem programação em C, html e um pouco de python. Destac
 - <!--:necktie: &nbsp;--> 
 - :man_student: &nbsp; Sou estudante de Ciência da computação.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :soccer:&nbsp; Sou fluminense<br />
-- :ice_hockey:&nbsp; Também gosto de hokey/NHL (san jose Sharks).<br />
+- :soccer:&nbsp; Sou Vira Folha<br />
+- :ice_hockey:&nbsp; Também gosto de hokey/NHL (San Jose Sharks).<br />
 - :airplane: &nbsp; Curto viajar e conhecer novos lugares.<br />
 - :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
